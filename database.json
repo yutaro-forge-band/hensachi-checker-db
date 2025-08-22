@@ -1,0 +1,64 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Google Japan",
+      "industry": "IT",
+      "jobhuntHensachi": 78,
+      "careerHensachi": 85,
+      "difficulty": "SS",
+      "avgSalary": 2200,
+      "targetUniversities": ["東大", "京大", "東工大", "早慶"],
+      "hasEducationFilter": true,
+      "notes": "技術力重視・英語必須"
+    },
+    {
+      "id": 2,
+      "name": "楽天グループ",
+      "industry": "IT", 
+      "jobhuntHensachi": 68,
+      "careerHensachi": 65,
+      "difficulty": "A",
+      "avgSalary": 750,
+      "targetUniversities": ["旧帝大", "早慶", "MARCH", "関関同立"],
+      "hasEducationFilter": false,
+      "notes": "英語公用語"
+    },
+    {
+      "id": 3,
+      "name": "トヨタ自動車",
+      "industry": "自動車",
+      "jobhuntHensachi": 75,
+      "careerHensachi": 68,
+      "difficulty": "S",
+      "avgSalary": 850,
+      "targetUniversities": ["旧帝大", "早慶", "MARCH"],
+      "hasEducationFilter": true,
+      "notes": "技術職は理系優遇"
+    }
+  ],
+  "universities": [
+    {
+      "id": 1,
+      "name": "東京大学",
+      "department": "理系",
+      "hensachi": 78,
+      "rank": "SS",
+      "notes": "最難関国立"
+    },
+    {
+      "id": 2,
+      "name": "早稲田大学",
+      "department": "文系",
+      "hensachi": 68,
+      "rank": "S",
+      "notes": "私大最難関"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-08-22",
+    "version": "1.0",
+    "totalCompanies": 3,
+    "totalUniversities": 2
+  }
+}
