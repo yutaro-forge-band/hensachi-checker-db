@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>偏差値データベース</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .success { color: green; }
+        .error { color: red; }
+        .loading { color: blue; }
+    </style>
+</head>
+<body>
+    <h1>転職偏差値データベース</h1>
+    <div id="status" class="loading">データを読み込み中...</div>
+    <div id="result"></div>
+
+    <script>
+    console.log('Testing JSON fetch...');
+    
+    // 相対パスでのテスト
+    fetch('./companies.json')
+        .then(response => {
+            console.log('Response status:', response.status);
+            console.log('Response headers:', response.headers);
+            
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log('Data loaded successfully:', data);
+            document.getElementById('status').innerHTML = 
+                '<span class="success">✅ データ取得成功!</span>';
+            document.getElementById('result').innerHTML = `
+                <h2>データ概要</h2>
+                <p><strong>企業数:</strong> ${data.metadata?.totalCompanies || 'N/A'}社</p>
+                <p><strong>平均偏差値:</strong> ${data.metadata?.averageHensachi || 'N/A'}</p>
+                <p><strong>1位企業:</strong> ${data.companies?.[0]?.name || 'N/A'}</p>
+                <p><strong>更新日:</strong> ${data.metadata?.lastUpdated || 'N/A'}</p>
+                
+                <h3>カテゴリ別企業数</h3>
+                <ul>
+                ${Object.entries(data.statistics?.categories || {})
+                  .map(([cat, count]) => `<li>${cat}: ${count}社</li>`)
+                  .join('')}
+                </ul>
+                
+                <h3>APIアクセスURL</h3>
+                <p><code>https://yutaro-forge-band.github.io/hensachi-checker-db/companies.json</code></p>
+            `;
+        })
+        .catch(error => {
+            console.error('Fetch error:', error);
+            document.getElementById('status').innerHTML = 
+                '<span class="error">❌ データ取得失敗</span>';
+            document.getElementById('result').innerHTML = `
+                <p class="error">エラー: ${error.message}</p>
+                <h3>考えられる原因:</h3>
+                <ul>
+                    <li>companies.json ファイルが存在しない</li>
+                    <li>JSON形式が正しくない</li>
+                    <li>Jekyll処理により隠されている</li>
+                    <li>ファイルサイズが大きすぎる</li>
+                </ul>
+            `;
+        });
+    </script>
+</body>
+</html>
