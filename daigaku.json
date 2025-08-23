@@ -1,0 +1,3793 @@
+[
+  {
+    "id": 1,
+    "name": "東京大学",
+    "hensachi": 82,
+    "rank": "SS",
+    "notes": "国立最難関",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 2,
+    "name": "京都大学",
+    "hensachi": 80,
+    "rank": "SS",
+    "notes": "国立最難関",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 3,
+    "name": "一橋大学",
+    "hensachi": 78,
+    "rank": "SS",
+    "notes": "文系最難関国立",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 4,
+    "name": "東京工業大学",
+    "hensachi": 77,
+    "rank": "SS",
+    "notes": "理系最難関国立",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 5,
+    "name": "慶應義塾大学",
+    "hensachi": 76,
+    "rank": "SS",
+    "notes": "私立最難関",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 6,
+    "name": "早稲田大学",
+    "hensachi": 75,
+    "rank": "SS",
+    "notes": "私立最難関",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 7,
+    "name": "大阪大学",
+    "hensachi": 74,
+    "rank": "S",
+    "notes": "旧帝大",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 8,
+    "name": "名古屋大学",
+    "hensachi": 73,
+    "rank": "S",
+    "notes": "旧帝大",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 9,
+    "name": "東北大学",
+    "hensachi": 72,
+    "rank": "S",
+    "notes": "旧帝大",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 10,
+    "name": "九州大学",
+    "hensachi": 72,
+    "rank": "S",
+    "notes": "旧帝大",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 11,
+    "name": "北海道大学",
+    "hensachi": 71,
+    "rank": "S",
+    "notes": "旧帝大",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 12,
+    "name": "神戸大学",
+    "hensachi": 71,
+    "rank": "S",
+    "notes": "国立上位",
+    "prefecture": "兵庫県"
+  },
+  {
+    "id": 13,
+    "name": "筑波大学",
+    "hensachi": 70,
+    "rank": "S",
+    "notes": "国立上位",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 14,
+    "name": "横浜国立大学",
+    "hensachi": 70,
+    "rank": "S",
+    "notes": "国立上位",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 15,
+    "name": "千葉大学",
+    "hensachi": 69,
+    "rank": "A",
+    "notes": "国立上位",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 16,
+    "name": "広島大学",
+    "hensachi": 69,
+    "rank": "A",
+    "notes": "国立上位",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 17,
+    "name": "お茶の水女子大学",
+    "hensachi": 69,
+    "rank": "A",
+    "notes": "国立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 18,
+    "name": "上智大学",
+    "hensachi": 69,
+    "rank": "A",
+    "notes": "私立上位",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 19,
+    "name": "同志社大学",
+    "hensachi": 68,
+    "rank": "A",
+    "notes": "関関同立",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 20,
+    "name": "国際基督教大学",
+    "hensachi": 68,
+    "rank": "A",
+    "notes": "私立リベラルアーツ",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 21,
+    "name": "東京理科大学",
+    "hensachi": 68,
+    "rank": "A",
+    "notes": "私立理系最難関",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 22,
+    "name": "東京芸術大学",
+    "hensachi": 67,
+    "rank": "A",
+    "notes": "国立芸術",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 23,
+    "name": "金沢大学",
+    "hensachi": 67,
+    "rank": "A",
+    "notes": "国立上位",
+    "prefecture": "石川県"
+  },
+  {
+    "id": 24,
+    "name": "岡山大学",
+    "hensachi": 67,
+    "rank": "A",
+    "notes": "国立上位",
+    "prefecture": "岡山県"
+  },
+  {
+    "id": 25,
+    "name": "熊本大学",
+    "hensachi": 67,
+    "rank": "A",
+    "notes": "国立上位",
+    "prefecture": "熊本県"
+  },
+  {
+    "id": 26,
+    "name": "新潟大学",
+    "hensachi": 66,
+    "rank": "A",
+    "notes": "国立上位",
+    "prefecture": "新潟県"
+  },
+  {
+    "id": 27,
+    "name": "東京農工大学",
+    "hensachi": 66,
+    "rank": "A",
+    "notes": "国立理系",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 28,
+    "name": "明治大学",
+    "hensachi": 66,
+    "rank": "A",
+    "notes": "MARCH",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 29,
+    "name": "青山学院大学",
+    "hensachi": 66,
+    "rank": "A",
+    "notes": "MARCH",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 30,
+    "name": "立教大学",
+    "hensachi": 66,
+    "rank": "A",
+    "notes": "MARCH",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 31,
+    "name": "関西学院大学",
+    "hensachi": 65,
+    "rank": "A",
+    "notes": "関関同立",
+    "prefecture": "兵庫県"
+  },
+  {
+    "id": 32,
+    "name": "立命館大学",
+    "hensachi": 65,
+    "rank": "A",
+    "notes": "関関同立",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 33,
+    "name": "信州大学",
+    "hensachi": 65,
+    "rank": "A",
+    "notes": "国立",
+    "prefecture": "長野県"
+  },
+  {
+    "id": 34,
+    "name": "静岡大学",
+    "hensachi": 65,
+    "rank": "A",
+    "notes": "国立",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": 35,
+    "name": "三重大学",
+    "hensachi": 65,
+    "rank": "A",
+    "notes": "国立",
+    "prefecture": "三重県"
+  },
+  {
+    "id": 36,
+    "name": "首都大学東京",
+    "hensachi": 65,
+    "rank": "A",
+    "notes": "公立上位",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 37,
+    "name": "麻布大学",
+    "hensachi": 65,
+    "rank": "A",
+    "notes": "私立獣医",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 38,
+    "name": "中央大学",
+    "hensachi": 64,
+    "rank": "B",
+    "notes": "MARCH",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 39,
+    "name": "法政大学",
+    "hensachi": 64,
+    "rank": "B",
+    "notes": "MARCH",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 40,
+    "name": "関西大学",
+    "hensachi": 64,
+    "rank": "B",
+    "notes": "関関同立",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 41,
+    "name": "学習院大学",
+    "hensachi": 64,
+    "rank": "B",
+    "notes": "私立上位",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 42,
+    "name": "津田塾大学",
+    "hensachi": 64,
+    "rank": "B",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 43,
+    "name": "大阪市立大学",
+    "hensachi": 64,
+    "rank": "B",
+    "notes": "公立上位",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 44,
+    "name": "北里大学",
+    "hensachi": 64,
+    "rank": "B",
+    "notes": "私立獣医",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 45,
+    "name": "奈良女子大学",
+    "hensachi": 63,
+    "rank": "B",
+    "notes": "国立女子",
+    "prefecture": "奈良県"
+  },
+  {
+    "id": 46,
+    "name": "埼玉大学",
+    "hensachi": 63,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 47,
+    "name": "大阪府立大学",
+    "hensachi": 63,
+    "rank": "B",
+    "notes": "公立上位",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 48,
+    "name": "日本獣医生命科学大学",
+    "hensachi": 63,
+    "rank": "B",
+    "notes": "私立獣医",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 49,
+    "name": "筑波大学体育専門学群",
+    "hensachi": 63,
+    "rank": "B",
+    "notes": "国立体育",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 50,
+    "name": "群馬大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 51,
+    "name": "山形大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "山形県"
+  },
+  {
+    "id": 52,
+    "name": "福島大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 53,
+    "name": "茨城大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 54,
+    "name": "宇都宮大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 55,
+    "name": "富山大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "富山県"
+  },
+  {
+    "id": 56,
+    "name": "福井大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "福井県"
+  },
+  {
+    "id": 57,
+    "name": "山梨大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "山梨県"
+  },
+  {
+    "id": 58,
+    "name": "岐阜大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "岐阜県"
+  },
+  {
+    "id": 59,
+    "name": "滋賀大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "滋賀県"
+  },
+  {
+    "id": 60,
+    "name": "横浜市立大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "公立上位",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 61,
+    "name": "聖路加国際大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "私立看護",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 62,
+    "name": "豊田工業大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "私立工業",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 63,
+    "name": "星薬科大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "私立薬学",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 64,
+    "name": "弘前大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 65,
+    "name": "岩手大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "岩手県"
+  },
+  {
+    "id": 66,
+    "name": "秋田大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "秋田県"
+  },
+  {
+    "id": 67,
+    "name": "京都工芸繊維大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立工業系",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 68,
+    "name": "奈良教育大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立教育系",
+    "prefecture": "奈良県"
+  },
+  {
+    "id": 69,
+    "name": "和歌山大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "和歌山県"
+  },
+  {
+    "id": 70,
+    "name": "鳥取大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "鳥取県"
+  },
+  {
+    "id": 71,
+    "name": "島根大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "島根県"
+  },
+  {
+    "id": 72,
+    "name": "山口大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "山口県"
+  },
+  {
+    "id": 73,
+    "name": "徳島大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "徳島県"
+  },
+  {
+    "id": 74,
+    "name": "香川大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "香川県"
+  },
+  {
+    "id": 75,
+    "name": "愛媛大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "愛媛県"
+  },
+  {
+    "id": 76,
+    "name": "高知大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "高知県"
+  },
+  {
+    "id": 77,
+    "name": "佐賀大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "佐賀県"
+  },
+  {
+    "id": 78,
+    "name": "長崎大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "長崎県"
+  },
+  {
+    "id": 79,
+    "name": "大分大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "大分県"
+  },
+  {
+    "id": 80,
+    "name": "宮崎大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "宮崎県"
+  },
+  {
+    "id": 81,
+    "name": "鹿児島大学",
+    "hensachi": 62,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "id": 82,
+    "name": "琉球大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "国立",
+    "prefecture": "沖縄県"
+  },
+  {
+    "id": 83,
+    "name": "成蹊大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 84,
+    "name": "成城大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 85,
+    "name": "明治学院大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 86,
+    "name": "武蔵大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 87,
+    "name": "國學院大學",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 88,
+    "name": "獨協大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 89,
+    "name": "名古屋市立大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "公立上位",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 90,
+    "name": "電気通信大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "国立理系",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 91,
+    "name": "日本女子大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 92,
+    "name": "東京女子大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 93,
+    "name": "聖心女子大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 94,
+    "name": "白百合女子大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 95,
+    "name": "京都府立大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "公立上位",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 96,
+    "name": "東京薬科大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "私立薬学",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 97,
+    "name": "京都薬科大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "私立薬学",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 98,
+    "name": "京都工芸繊維大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "国立工芸",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 99,
+    "name": "順天堂大学",
+    "hensachi": 60,
+    "rank": "B",
+    "notes": "私立体育医療",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 100,
+    "name": "近畿大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "産近甲龍",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 101,
+    "name": "京都産業大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "産近甲龍",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 102,
+    "name": "甲南大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "産近甲龍",
+    "prefecture": "兵庫県"
+  },
+  {
+    "id": 103,
+    "name": "龍谷大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "産近甲龍",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 104,
+    "name": "西南学院大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "九州私立上位",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 105,
+    "name": "南山大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "中部私立上位",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 106,
+    "name": "兵庫県立大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "公立",
+    "prefecture": "兵庫県"
+  },
+  {
+    "id": 107,
+    "name": "学習院女子大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 108,
+    "name": "明治薬科大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "私立薬学",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 109,
+    "name": "大阪薬科大学",
+    "hensachi": 59,
+    "rank": "C",
+    "notes": "私立薬学",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 110,
+    "name": "武蔵野大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 111,
+    "name": "東洋大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "日東駒専",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 112,
+    "name": "駒澤大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "日東駒専",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 113,
+    "name": "専修大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "日東駒専",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 114,
+    "name": "創価大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 115,
+    "name": "愛知大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "中部私立",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 116,
+    "name": "中京大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "中部私立",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 117,
+    "name": "名城大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "中部私立",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 118,
+    "name": "愛知県立大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "公立",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 119,
+    "name": "静岡県立大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "公立",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": 120,
+    "name": "神戸薬科大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "私立薬学",
+    "prefecture": "兵庫県"
+  },
+  {
+    "id": 121,
+    "name": "昭和薬科大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "私立薬学",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 122,
+    "name": "昭和女子大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 123,
+    "name": "日本赤十字看護大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "私立看護",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 124,
+    "name": "長岡技術科学大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "国立技術",
+    "prefecture": "新潟県"
+  },
+  {
+    "id": 125,
+    "name": "豊橋技術科学大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "国立技術",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 126,
+    "name": "福岡大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "九州私立",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 127,
+    "name": "文教大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 128,
+    "name": "大東文化大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 129,
+    "name": "東海大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "私立大規模",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 130,
+    "name": "神奈川大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 131,
+    "name": "北九州市立大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "公立",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 132,
+    "name": "武蔵野美術大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "私立美術",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 133,
+    "name": "多摩美術大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "私立美術",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 134,
+    "name": "京都女子大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 135,
+    "name": "玉川大学",
+    "hensachi": 56,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 136,
+    "name": "大妻女子大学",
+    "hensachi": 56,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 137,
+    "name": "フェリス女学院大学",
+    "hensachi": 56,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 138,
+    "name": "同志社女子大学",
+    "hensachi": 56,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 139,
+    "name": "高崎経済大学",
+    "hensachi": 56,
+    "rank": "C",
+    "notes": "公立",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 140,
+    "name": "東京医療保健大学",
+    "hensachi": 55,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 141,
+    "name": "共立女子大学",
+    "hensachi": 55,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 142,
+    "name": "関西外国語大学",
+    "hensachi": 55,
+    "rank": "C",
+    "notes": "私立語学",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 143,
+    "name": "ノートルダム清心女子大学",
+    "hensachi": 55,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "岡山県"
+  },
+  {
+    "id": 144,
+    "name": "岩手医科大学",
+    "hensachi": 55,
+    "rank": "C",
+    "notes": "私立医科",
+    "prefecture": "岩手県"
+  },
+  {
+    "id": 145,
+    "name": "国際医療福祉大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 146,
+    "name": "日本大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "日東駒専",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 147,
+    "name": "実践女子大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 148,
+    "name": "京都外国語大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立語学",
+    "prefecture": "京都府"
+  },
+  {
+    "id": 149,
+    "name": "愛知淑徳大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 150,
+    "name": "杏林大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 151,
+    "name": "帝京大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 152,
+    "name": "亜細亜大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 153,
+    "name": "国士舘大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 154,
+    "name": "拓殖大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 155,
+    "name": "女子美術大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "私立女子美術",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 156,
+    "name": "川崎医療福祉大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "岡山県"
+  },
+  {
+    "id": 157,
+    "name": "桜美林大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 158,
+    "name": "大正大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 159,
+    "name": "立正大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 160,
+    "name": "二松學舍大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 161,
+    "name": "城西大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 162,
+    "name": "東京家政大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 163,
+    "name": "産業能率大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 164,
+    "name": "摂南大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "摂神追桃",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 165,
+    "name": "椙山女学園大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 166,
+    "name": "跡見学園女子大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 167,
+    "name": "広島修道大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 168,
+    "name": "日本大学芸術学部",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立芸術",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 169,
+    "name": "高知工科大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "公立工業",
+    "prefecture": "高知県"
+  },
+  {
+    "id": 170,
+    "name": "神戸学院大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "摂神追桃",
+    "prefecture": "兵庫県"
+  },
+  {
+    "id": 171,
+    "name": "東京経済大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 172,
+    "name": "明星大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 173,
+    "name": "関東学院大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 174,
+    "name": "湘南工科大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立理系",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 175,
+    "name": "千葉工業大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立理系",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 176,
+    "name": "工学院大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立理系",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 177,
+    "name": "愛知学院大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 178,
+    "name": "金城学院大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 179,
+    "name": "聖隷クリストファー大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": 180,
+    "name": "久留米大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 181,
+    "name": "芝浦工業大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立理系",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 182,
+    "name": "東京都市大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立理系",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 183,
+    "name": "東京電機大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立理系",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 184,
+    "name": "北里大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立医療系",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 185,
+    "name": "追手門学院大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "摂神追桃",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 186,
+    "name": "桃山学院大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "摂神追桃",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 187,
+    "name": "中部大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 188,
+    "name": "安田女子大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 189,
+    "name": "山口東京理科大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "公立理系",
+    "prefecture": "山口県"
+  },
+  {
+    "id": 190,
+    "name": "山形県立保健医療大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "公立医療",
+    "prefecture": "山形県"
+  },
+  {
+    "id": 191,
+    "name": "日本体育大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立体育",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 192,
+    "name": "金沢工業大学",
+    "hensachi": 50,
+    "rank": "C",
+    "notes": "私立工業",
+    "prefecture": "石川県"
+  },
+  {
+    "id": 193,
+    "name": "麗澤大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 194,
+    "name": "流通経済大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 195,
+    "name": "常磐大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 196,
+    "name": "東京国際大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 197,
+    "name": "駿河台大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 198,
+    "name": "尚美学園大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 199,
+    "name": "大阪経済大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 200,
+    "name": "大阪工業大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": 201,
+    "name": "松山大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "愛媛県"
+  },
+  {
+    "id": 202,
+    "name": "中村学園大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 203,
+    "name": "東北学院大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 204,
+    "name": "目白大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 205,
+    "name": "帝京平成大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 206,
+    "name": "淑徳大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 207,
+    "name": "千葉商科大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 208,
+    "name": "九州産業大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 209,
+    "name": "東北福祉大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立福祉系",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 210,
+    "name": "東京家政学院大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 211,
+    "name": "恵泉女学園大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 212,
+    "name": "東北芸術工科大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立芸術",
+    "prefecture": "山形県"
+  },
+  {
+    "id": 213,
+    "name": "新潟医療福祉大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "新潟県"
+  },
+  {
+    "id": 214,
+    "name": "金沢星稜大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "石川県"
+  },
+  {
+    "id": 215,
+    "name": "広島国際大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 216,
+    "name": "国士舘大学体育学部",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立体育",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 217,
+    "name": "札幌大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 218,
+    "name": "北海学園大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 219,
+    "name": "白鴎大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 220,
+    "name": "桐蔭横浜大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 221,
+    "name": "相模女子大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 222,
+    "name": "多摩大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 223,
+    "name": "大同大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 224,
+    "name": "名古屋女子大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 225,
+    "name": "広島経済大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 226,
+    "name": "熊本学園大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "熊本県"
+  },
+  {
+    "id": 227,
+    "name": "名桜大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "公立",
+    "prefecture": "沖縄県"
+  },
+  {
+    "id": 228,
+    "name": "日本福祉大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立福祉",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 229,
+    "name": "北星学園大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 230,
+    "name": "酪農学園大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立農業系",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 231,
+    "name": "和光大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 232,
+    "name": "和洋女子大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 233,
+    "name": "鶴見大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 234,
+    "name": "東海学園大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 235,
+    "name": "静岡理工科大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": 236,
+    "name": "宮城学院女子大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 237,
+    "name": "岡山理科大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "岡山県"
+  },
+  {
+    "id": 238,
+    "name": "福岡工業大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 239,
+    "name": "崇城大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "熊本県"
+  },
+  {
+    "id": 240,
+    "name": "北海道科学大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 241,
+    "name": "仙台大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立体育系",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 242,
+    "name": "横浜商科大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": 243,
+    "name": "城西国際大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 244,
+    "name": "常葉大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": 245,
+    "name": "比治山大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 246,
+    "name": "徳島文理大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "徳島県"
+  },
+  {
+    "id": 247,
+    "name": "第一薬科大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立薬学",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": 248,
+    "name": "沖縄国際大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "沖縄県"
+  },
+  {
+    "id": 249,
+    "name": "長野保健医療大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "長野県"
+  },
+  {
+    "id": 250,
+    "name": "茨城キリスト教大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 251,
+    "name": "尚絅学院大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 252,
+    "name": "作新学院大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 253,
+    "name": "開智国際大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 254,
+    "name": "つくば国際大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 255,
+    "name": "長野大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "公立",
+    "prefecture": "長野県"
+  },
+  {
+    "id": 256,
+    "name": "北陸大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "石川県"
+  },
+  {
+    "id": 257,
+    "name": "仁愛大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福井県"
+  },
+  {
+    "id": 258,
+    "name": "福山大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 259,
+    "name": "松山東雲女子大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "愛媛県"
+  },
+  {
+    "id": 260,
+    "name": "別府大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "大分県"
+  },
+  {
+    "id": 261,
+    "name": "千歳科学技術大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 262,
+    "name": "東北文化学園大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 263,
+    "name": "上武大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 264,
+    "name": "千葉経済大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 265,
+    "name": "聖学院大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 266,
+    "name": "松本大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "長野県"
+  },
+  {
+    "id": 267,
+    "name": "共愛学園前橋国際大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 268,
+    "name": "石巻専修大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 269,
+    "name": "福井工業大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "福井県"
+  },
+  {
+    "id": 270,
+    "name": "高松大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "香川県"
+  },
+  {
+    "id": 271,
+    "name": "四国大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "徳島県"
+  },
+  {
+    "id": 272,
+    "name": "埼玉工業大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 273,
+    "name": "筑波学院大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 274,
+    "name": "宇都宮共和大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 275,
+    "name": "足利大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 276,
+    "name": "文星芸術大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立芸術",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 277,
+    "name": "関東学園大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 278,
+    "name": "高崎商科大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 279,
+    "name": "桐生大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 280,
+    "name": "清和大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 281,
+    "name": "秋田看護福祉大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立看護",
+    "prefecture": "秋田県"
+  },
+  {
+    "id": 282,
+    "name": "ノースアジア大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "秋田県"
+  },
+  {
+    "id": 283,
+    "name": "敬和学園大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "新潟県"
+  },
+  {
+    "id": 284,
+    "name": "清泉女学院大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "長野県"
+  },
+  {
+    "id": 285,
+    "name": "高岡法科大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "富山県"
+  },
+  {
+    "id": 286,
+    "name": "富山国際大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "富山県"
+  },
+  {
+    "id": 287,
+    "name": "北陸学院大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "石川県"
+  },
+  {
+    "id": 288,
+    "name": "岐阜経済大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "岐阜県"
+  },
+  {
+    "id": 289,
+    "name": "朝日大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "岐阜県"
+  },
+  {
+    "id": 290,
+    "name": "中京学院大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "岐阜県"
+  },
+  {
+    "id": 291,
+    "name": "東海学院大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "岐阜県"
+  },
+  {
+    "id": 292,
+    "name": "静岡産業大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": 293,
+    "name": "浜松学院大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": 294,
+    "name": "星城大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 295,
+    "name": "人間環境大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": 296,
+    "name": "宇部フロンティア大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "山口県"
+  },
+  {
+    "id": 297,
+    "name": "四国学院大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "香川県"
+  },
+  {
+    "id": 298,
+    "name": "聖カタリナ大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "愛媛県"
+  },
+  {
+    "id": 299,
+    "name": "広島工業大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "広島県"
+  },
+  {
+    "id": 300,
+    "name": "新潟産業大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "新潟県"
+  },
+  {
+    "id": 301,
+    "name": "青森大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 302,
+    "name": "八戸工業大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 303,
+    "name": "富士大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "岩手県"
+  },
+  {
+    "id": 304,
+    "name": "奥羽大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 305,
+    "name": "郡山女子大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 306,
+    "name": "福島学院大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 307,
+    "name": "旭川大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 308,
+    "name": "函館大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 309,
+    "name": "道都大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 310,
+    "name": "日本工業大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 311,
+    "name": "関東大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 312,
+    "name": "平成国際大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 313,
+    "name": "秀明大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 314,
+    "name": "敬愛大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 315,
+    "name": "愛国学園大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 316,
+    "name": "植草学園大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 317,
+    "name": "江戸川大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 318,
+    "name": "川村学園女子大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 319,
+    "name": "神田外語大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立語学",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 320,
+    "name": "国際武道大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立体育",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 321,
+    "name": "東京情報大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 322,
+    "name": "了徳寺大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 323,
+    "name": "麗澤大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 324,
+    "name": "和洋女子大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 325,
+    "name": "宇都宮文星女子短期大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 326,
+    "name": "亜細亜大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 327,
+    "name": "大東文化大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 328,
+    "name": "帝京大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 329,
+    "name": "国士舘大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 330,
+    "name": "拓殖大学",
+    "hensachi": 53,
+    "rank": "C",
+    "notes": "大東亜帝国",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 331,
+    "name": "杏林大学保健学部",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "東京都"
+  },
+  {
+    "id": 332,
+    "name": "東京医療保健大学",
+    "hensachi": 55,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 333,
+    "name": "東洋大学",
+    "hensachi": 58,
+    "rank": "C",
+    "notes": "日東駒専",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 334,
+    "name": "日本工業大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 335,
+    "name": "東京国際大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 336,
+    "name": "聖学院大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 337,
+    "name": "駿河台大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 338,
+    "name": "尚美学園大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 339,
+    "name": "城西大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 340,
+    "name": "跡見学園女子大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立女子",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 341,
+    "name": "文教大学",
+    "hensachi": 57,
+    "rank": "C",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 342,
+    "name": "獨協大学",
+    "hensachi": 61,
+    "rank": "B",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 343,
+    "name": "日本薬科大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立薬学",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 344,
+    "name": "埼玉工業大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 345,
+    "name": "平成国際大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 346,
+    "name": "ものつくり大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 347,
+    "name": "浦和大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 348,
+    "name": "日本医療科学大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 349,
+    "name": "人間総合科学大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 350,
+    "name": "西武文理大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 351,
+    "name": "東都大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "埼玉県"
+  },
+  {
+    "id": 352,
+    "name": "東京成徳大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 353,
+    "name": "千葉経済大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 354,
+    "name": "千葉商科大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 355,
+    "name": "千葉工業大学",
+    "hensachi": 51,
+    "rank": "C",
+    "notes": "私立理系",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 356,
+    "name": "淑徳大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 357,
+    "name": "城西国際大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 358,
+    "name": "清和大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 359,
+    "name": "中央学院大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 360,
+    "name": "帝京平成大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 361,
+    "name": "東京基督教大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 362,
+    "name": "東京情報大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 363,
+    "name": "麗澤大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 364,
+    "name": "和洋女子大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 365,
+    "name": "開智国際大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 366,
+    "name": "日本橋学館大学",
+    "hensachi": 36,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 367,
+    "name": "愛国学園大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 368,
+    "name": "植草学園大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 369,
+    "name": "江戸川大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 370,
+    "name": "川村学園女子大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 371,
+    "name": "神田外語大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立語学",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 372,
+    "name": "国際武道大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立体育",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 373,
+    "name": "秀明大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 374,
+    "name": "聖徳大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 375,
+    "name": "千葉科学大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 376,
+    "name": "敬愛大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 377,
+    "name": "了徳寺大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 378,
+    "name": "つくば国際大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 379,
+    "name": "流通経済大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 380,
+    "name": "筑波学院大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 381,
+    "name": "茨城キリスト教大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 382,
+    "name": "常磐大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 383,
+    "name": "茨城女子短期大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 384,
+    "name": "常磐短期大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 385,
+    "name": "つくば国際短期大学",
+    "hensachi": 36,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "茨城県"
+  },
+  {
+    "id": 386,
+    "name": "白鴎大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 387,
+    "name": "作新学院大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 388,
+    "name": "国際医療福祉大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 389,
+    "name": "宇都宮共和大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 390,
+    "name": "足利大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 391,
+    "name": "文星芸術大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立芸術",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 392,
+    "name": "宇都宮文星短期大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 393,
+    "name": "佐野短期大学",
+    "hensachi": 36,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 394,
+    "name": "足利短期大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 395,
+    "name": "国際医療福祉大学",
+    "hensachi": 54,
+    "rank": "C",
+    "notes": "私立医療",
+    "prefecture": "栃木県"
+  },
+  {
+    "id": 396,
+    "name": "高崎経済大学",
+    "hensachi": 56,
+    "rank": "C",
+    "notes": "公立",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 397,
+    "name": "関東学園大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 398,
+    "name": "高崎商科大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 399,
+    "name": "桐生大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 400,
+    "name": "共愛学園前橋国際大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 401,
+    "name": "上武大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 402,
+    "name": "高崎健康福祉大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 403,
+    "name": "東京福祉大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 404,
+    "name": "新島学園短期大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 405,
+    "name": "群馬パース大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 406,
+    "name": "育英大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "群馬県"
+  },
+  {
+    "id": 407,
+    "name": "明海大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 408,
+    "name": "中央学院大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 409,
+    "name": "東京基督教大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 410,
+    "name": "千葉科学大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 411,
+    "name": "聖徳大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 412,
+    "name": "日本橋学館大学",
+    "hensachi": 36,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 413,
+    "name": "国際武道大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立体育",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 414,
+    "name": "愛国学園大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 415,
+    "name": "植草学園大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 416,
+    "name": "江戸川大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 417,
+    "name": "川村学園女子大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 418,
+    "name": "神田外語大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立語学",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 419,
+    "name": "秀明大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 420,
+    "name": "東京情報大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 421,
+    "name": "敬愛大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 422,
+    "name": "了徳寺大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "千葉県"
+  },
+  {
+    "id": 423,
+    "name": "札幌大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 424,
+    "name": "北海学園大学",
+    "hensachi": 47,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 425,
+    "name": "北星学園大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 426,
+    "name": "酪農学園大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立農業系",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 427,
+    "name": "旭川大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 428,
+    "name": "函館大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 429,
+    "name": "道都大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 430,
+    "name": "千歳科学技術大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 431,
+    "name": "北海道科学大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 432,
+    "name": "北海商科大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 433,
+    "name": "札幌国際大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 434,
+    "name": "北海道情報大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立理系",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 435,
+    "name": "北海道文教大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 436,
+    "name": "苫小牧駒澤大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 437,
+    "name": "稚内北星学園大学",
+    "hensachi": 35,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 438,
+    "name": "藤女子大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 439,
+    "name": "札幌学院大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 440,
+    "name": "北翔大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 441,
+    "name": "札幌保健医療大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 442,
+    "name": "日本医療大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 443,
+    "name": "天使大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立看護",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 444,
+    "name": "北海道薬科大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立薬学",
+    "prefecture": "北海道"
+  },
+  {
+    "id": 445,
+    "name": "青森大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 446,
+    "name": "八戸工業大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 447,
+    "name": "八戸学院大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 448,
+    "name": "青森中央学院大学",
+    "hensachi": 36,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "青森県"
+  },
+  {
+    "id": 449,
+    "name": "富士大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "岩手県"
+  },
+  {
+    "id": 450,
+    "name": "盛岡大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "岩手県"
+  },
+  {
+    "id": 451,
+    "name": "岩手保健医療大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立医療",
+    "prefecture": "岩手県"
+  },
+  {
+    "id": 452,
+    "name": "東北学院大学",
+    "hensachi": 49,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 453,
+    "name": "東北福祉大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立福祉系",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 454,
+    "name": "仙台大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立体育系",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 455,
+    "name": "東北文化学園大学",
+    "hensachi": 44,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 456,
+    "name": "石巻専修大学",
+    "hensachi": 43,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 457,
+    "name": "宮城学院女子大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 458,
+    "name": "尚絅学院大学",
+    "hensachi": 45,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 459,
+    "name": "東北工業大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立工業",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 460,
+    "name": "東北生活文化大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 461,
+    "name": "東北医科薬科大学",
+    "hensachi": 52,
+    "rank": "C",
+    "notes": "私立医薬",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": 462,
+    "name": "秋田看護福祉大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立看護",
+    "prefecture": "秋田県"
+  },
+  {
+    "id": 463,
+    "name": "ノースアジア大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "秋田県"
+  },
+  {
+    "id": 464,
+    "name": "日本赤十字秋田看護大学",
+    "hensachi": 46,
+    "rank": "D",
+    "notes": "私立看護",
+    "prefecture": "秋田県"
+  },
+  {
+    "id": 465,
+    "name": "東北芸術工科大学",
+    "hensachi": 48,
+    "rank": "D",
+    "notes": "私立芸術",
+    "prefecture": "山形県"
+  },
+  {
+    "id": 466,
+    "name": "東北公益文科大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "公立",
+    "prefecture": "山形県"
+  },
+  {
+    "id": 467,
+    "name": "羽陽学園短期大学",
+    "hensachi": 36,
+    "rank": "D",
+    "notes": "私立短大",
+    "prefecture": "山形県"
+  },
+  {
+    "id": 468,
+    "name": "奥羽大学",
+    "hensachi": 41,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 469,
+    "name": "郡山女子大学",
+    "hensachi": 40,
+    "rank": "D",
+    "notes": "私立女子",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 470,
+    "name": "福島学院大学",
+    "hensachi": 39,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 471,
+    "name": "東日本国際大学",
+    "hensachi": 37,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 472,
+    "name": "いわき明星大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "福島県"
+  },
+  {
+    "id": 473,
+    "name": "新潟産業大学",
+    "hensachi": 38,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "新潟県"
+  },
+  {
+    "id": 474,
+    "name": "敬和学園大学",
+    "hensachi": 42,
+    "rank": "D",
+    "notes": "私立中堅",
+    "prefecture": "新潟県"
+  },
